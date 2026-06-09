@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.zogai" name="Zogai Repository" version="1.0.1" provider-name="Zogai">
-  <extension point="xbmc.addon.repository" name="Zogai Repository">
+  <extension point="xbmc.addon.repository">
     <dir>
       <info compressed="false">https://zogai.github.io/zogai/addons.xml</info>
       <checksum>https://zogai.github.io/zogai/addons.xml.md5</checksum>
       <datadir zip="true">https://zogai.github.io/zogai/</datadir>
-      <hashes>false</hashes>
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
