@@ -1,0 +1,13 @@
+<builds>
+<build
+name="Zogai Build"
+version="1.0"
+url="https://github.com/zogai/zogai/releases/download/v1.0/zogai.zip"
+minor="0"
+gui="https://github.com/zogai/zogai/releases/download/v1.0/zogai.zip"
+kodi="21"
+theme="none"
+icon=""
+fanart=""
+description="Zogai Kodi Build"/>
+</builds>
