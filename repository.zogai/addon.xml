@@ -6,8 +6,8 @@
     <datadir zip="true">https://zogai.github.io/zogai/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Zogai Kodi Build Repository</summary>
-    <description>Zogai Kodi Build repository.</description>
+    <summary>Zogai Kodi Repository</summary>
+    <description>Zogai Kodi Repository</description>
     <platform>all</platform>
   </extension>
 </addon>
